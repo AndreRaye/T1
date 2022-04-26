@@ -61,4 +61,4 @@ if E != 1902 and E != 1904 and E != 1905 and E != 1906 and E != 1907 and E != 22
 #mostrar quantos estudantes são de quais locais
 print("Facom: " + str(f))
 print("Inma: " + str(i))
-print("Outras unidades: " + str(oi))
+print("Outras unidades: " + str(oi)) 
